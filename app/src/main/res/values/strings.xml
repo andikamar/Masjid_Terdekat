@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Masjid Terdekat</string>
+    <string name="title_activity_maps">Masjid Terdekat</string>
+    <string name="api_server">AIzaSyA1WTKo44BU5lwJwQLPIaqiuFaHBOaQLRg</string>
+    <string name="api_android">AIzaSyBBxjAOJcToaf74MjzjcVjOkxR0XKSQPH0</string>
+    <string name="my_name">Andika Mardianto</string>
+    <string name="txt_me">Saya Mahasiswa Universitas Islam Syekh Yusuf Tangerang, Fakultas Teknik Informatika. Aplikasi Ini Dibuat Untuk Melengkapi Tugas Akhir Saya.</string>
+
+    <string-array name="nearby_option">
+
+        <item>Select a Type</item>
+        <item>Mosque</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413387475581",
+    "firebase_url": "https://mosque-7b639.firebaseio.com",
+    "project_id": "mosque-7b639",
+    "storage_bucket": "mosque-7b639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413387475581:android:74ff197bb7e86e129ebf14",
+        "android_client_info": {
+          "package_name": "net.dika.masjid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413387475581-dn4b8ncghnl2ef9pmm6q6kriin2ie5gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.dika.masjid",
+            "certificate_hash": "dbd88ee853aa9e6ae463acd38216a04039f88c82"
+          }
+        },
+        {
+          "client_id": "413387475581-em9tgjmj0j7u5dl2bf9uh7e21d9dshg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBizHC3_nWnjwewF15JeXgajtYg5g8SCC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413387475581-em9tgjmj0j7u5dl2bf9uh7e21d9dshg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

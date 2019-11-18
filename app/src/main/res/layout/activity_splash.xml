@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:orientation="vertical"
+        android:id="@+id/image"
+        android:layout_width="500px"
+        android:layout_height="500px"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:background="@mipmap/unis" />
+
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"/>
+    <TextView
+        android:id="@+id/persentase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="100%"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
